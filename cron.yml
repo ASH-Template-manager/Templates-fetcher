@@ -1,0 +1,4 @@
+cron:
+  - description: "sync templates with Drive"
+    url: /api/template/sync
+    schedule: 10 of month 09:00
