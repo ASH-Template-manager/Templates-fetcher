@@ -1,0 +1,2 @@
+service: templates
+runtime: nodejs12
